@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_SiO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02354798
+_cell_length_b   7.02382744
+_cell_length_c   11.71879790
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiO2
+_chemical_formula_sum   'Si10 O20'
+_cell_volume   578.113953008
+_cell_formula_units_Z   10
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O1  1  0.000369  0.173481  0.084379  1
+  O  O2  1  0.499874  0.670317  0.583306  1
+  O  O3  1  0.829300  0.999598  0.916378  1
+  O  O4  1  0.326340  0.499741  0.415140  1
+  O  O5  1  0.000092  0.826388  0.084782  1
+  O  O6  1  0.499625  0.328700  0.583331  1
+  O  O7  1  0.170896  0.999345  0.916332  1
+  O  O8  1  0.673500  0.499463  0.415226  1
+  O  O9  1  0.999911  0.999550  0.737316  1
+  O  O10  1  0.500044  0.500515  0.237032  1
+  O  O11  1  0.999883  0.000520  0.262745  1
+  O  O12  1  0.499970  0.499548  0.762341  1
+  O  O13  1  0.319662  0.819243  0.749755  1
+  O  O14  1  0.819198  0.319618  0.249493  1
+  O  O15  1  0.180873  0.319563  0.249648  1
+  O  O16  1  0.680170  0.819342  0.749803  1
+  O  O17  1  0.680150  0.179779  0.749769  1
+  O  O18  1  0.180827  0.681306  0.250201  1
+  O  O19  1  0.819184  0.681204  0.250254  1
+  O  O20  1  0.319649  0.179798  0.749905  1
+  Si  Si21  1  0.000163  0.999669  0.003695  1
+  Si  Si22  1  0.499859  0.499489  0.496033  1
+  Si  Si23  1  0.206835  0.999474  0.784021  1
+  Si  Si24  1  0.705546  0.500199  0.284747  1
+  Si  Si25  1  0.000068  0.205916  0.214833  1
+  Si  Si26  1  0.499949  0.706423  0.715589  1
+  Si  Si27  1  0.793027  0.999575  0.784081  1
+  Si  Si28  1  0.294478  0.500299  0.284645  1
+  Si  Si29  1  0.999966  0.794816  0.215317  1
+  Si  Si30  1  0.499858  0.292651  0.715625  1

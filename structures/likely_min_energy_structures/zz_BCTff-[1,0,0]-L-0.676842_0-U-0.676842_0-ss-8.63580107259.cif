@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Si4H2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.62848311
+_cell_length_b   5.07745059
+_cell_length_c   30.43580107
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si4H2O9
+_chemical_formula_sum   'Si8 H4 O18'
+_cell_volume   1333.41364832
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  O  O1  1  0.733884  0.748820  0.269872  1
+  O  O2  1  0.265645  0.155187  0.260945  1
+  O  O3  1  0.767385  0.248819  0.259266  1
+  O  O4  1  0.235683  0.655188  0.269105  1
+  O  O5  1  0.705463  0.546121  0.193851  1
+  O  O6  1  0.000000  0.957987  0.277398  1
+  O  O7  1  0.794314  0.046155  0.335344  1
+  O  O8  1  0.294194  0.456534  0.193942  1
+  O  O9  1  0.501067  0.457927  0.252161  1
+  O  O10  1  0.268783  0.242915  0.402472  1
+  O  O11  1  0.734026  0.846656  0.410371  1
+  O  O12  1  0.229359  0.742918  0.411204  1
+  O  O13  1  0.764016  0.346666  0.402395  1
+  O  O14  1  0.205393  0.956484  0.336031  1
+  O  O15  1  0.705463  0.546121  0.477498  1
+  O  O16  1  0.498532  0.543877  0.419234  1
+  O  O17  1  0.294194  0.456534  0.477589  1
+  O  O18  1  0.000000  0.043848  0.394026  1
+  Si  Si19  1  0.678156  0.500473  0.244058  1
+  Si  Si20  1  0.178023  0.929743  0.285485  1
+  Si  Si21  1  0.822741  0.000000  0.285185  1
+  Si  Si22  1  0.322835  0.429741  0.244432  1
+  Si  Si23  1  0.176728  0.996540  0.386287  1
+  Si  Si24  1  0.676782  0.572348  0.426986  1
+  Si  Si25  1  0.321765  0.496603  0.427282  1
+  Si  Si26  1  0.821731  0.072345  0.385912  1
+  H  H27  1  0.705463  0.546121  0.164280  1
+  H  H28  1  0.294194  0.456534  0.164371  1
+  H  H29  1  0.705463  0.546121  0.507068  1
+  H  H30  1  0.294194  0.456534  0.507159  1
